@@ -144,12 +144,12 @@ function App() {
           <SectionTitle>My Projects</SectionTitle>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard 
-              title="E-commerce Website" 
+              title="Apni Library" 
               description="A fully responsive e-commerce platform built with React and Node.js."
-              image="https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+              image="src/assets/apnilib.jpg"
               tags={["React", "Node.js", "MongoDB"]}
-              demoLink="https://example.com"
-              codeLink="https://github.com"
+              demoLink="https://e-book-platform.vercel.app/"
+              codeLink="https://github.com/garvit0906/eBook-platform.git"
             />
             <ProjectCard 
               title="Portfolio Website" 
