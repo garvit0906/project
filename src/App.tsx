@@ -146,7 +146,7 @@ function App() {
             <ProjectCard 
               title="Apni Library" 
               description="A fully responsive e-commerce platform built with React and Node.js."
-              image="./public/apnilib.jpg"
+              image="apnilib.jpg"
               tags={["React", "Node.js", "MongoDB"]}
               demoLink="https://e-book-platform.vercel.app/"
               codeLink="https://github.com/garvit0906/eBook-platform.git"
