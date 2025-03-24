@@ -128,10 +128,10 @@ function App() {
             <div className="md:w-1/2">
               <h3 className="text-2xl font-semibold mb-4">Skills</h3>
               <div className="grid grid-cols-2 gap-4">
-                <SkillCard title="Frontend Development" items={["HTML5", "CSS3", "JavaScript", "TypeScript", "React"]} />
-                <SkillCard title="UI Frameworks" items={["Tailwind CSS", "Material UI", "Bootstrap"]} />
-                <SkillCard title="Tools" items={["Git", "Webpack", "Vite", "Figma"]} />
-                <SkillCard title="Other" items={["Responsive Design", "SEO", "Performance Optimization"]} />
+                <SkillCard title="Frontend Development" items={["HTML", "CSS", "JavaScript", "TypeScript", "React"]} />
+                <SkillCard title="UI Frameworks" items={["Tailwind CSS", "Bootstrap"]} />
+                <SkillCard title="Tools" items={["Git", "Webpack", "Figma"]} />
+                <SkillCard title="Other" items={["Responsive Design", "Performance Optimization"]} />
               </div>
             </div>
           </div>
